@@ -3,8 +3,6 @@
 
 - 🔥 Full Stack Developer & Passionate in programming, solving problems and learn new things.
 
-- 👨‍💻 All of my projects are available at [mayker.com.br](https://mayker.com.br)
-
 - 💬 Ask me about **Java, Spring Boot, TypeScript, React and JavaScript** 
 
 #
