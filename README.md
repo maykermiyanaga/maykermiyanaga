@@ -1,13 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayker Miyanaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaykerHM&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Full Stack Developer focused on building scalable products, system integrations, and end-to-end solutions.
+- 🔥 Full Stack Developer focused on scalable products, system integrations, and end-to-end business solutions.
 
-- 💻 Strong experience with Java, Spring Boot, React, TypeScript, system architecture, DevOps, and product delivery.
+- 💻 Strong expertise in Java, Spring Boot, React, TypeScript, software architecture, DevOps, and full product delivery.
 
-- 🚀 Experience leading technical solutions from requirements gathering to deployment, production support, and mentoring developers.
-
-- 💬 Specialized in Java, Spring Boot, TypeScript, React, JavaScript, software architecture, and business-driven development.
+- 🚀 Experience designing, building, and deploying technical solutions while collaborating with stakeholders and mentoring developers.
 
 #
 
